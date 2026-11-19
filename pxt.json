@@ -63,7 +63,7 @@
         "lesson12_mission1.md",
         "lesson12_mission2.md",
         "lesson12_mission3.md",
-        "lesson12_mission4.md"
+        "lesson12_mission4.md",
     ],
     "testFiles": [
         "test.ts"
